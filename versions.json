@@ -2,6 +2,12 @@
 	"tnc_version": 1,
 	"privacy_policy_version": 1,
 	"apps": {
-		"NumTrix": "1.0.0"
+		"NumTrix": {
+			"trackStatus": {
+				"DEV": true,
+				"PREPROD": true,
+				"PROD": false
+			}
+		}
 	}
 }
