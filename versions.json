@@ -5,7 +5,7 @@
 		"NumTrix": {
 			"trackStatus": {
 				"DEV": true,
-				"PRE_PROD": true,
+				"PRE_PROD": false,
 				"PROD": false
 			},
 			"adApproved": false
