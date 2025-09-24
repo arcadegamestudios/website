@@ -8,7 +8,7 @@
 				"PRE_PROD": true,
 				"PROD": true
 			},
-			"adApproved": false
+			"adApproved": true
 		}
 	}
 }
