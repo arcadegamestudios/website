@@ -6,7 +6,7 @@
 			"trackStatus": {
 				"DEV": true,
 				"PRE_PROD": true,
-				"PROD": false
+				"PROD": true
 			},
 			"adApproved": false
 		}
