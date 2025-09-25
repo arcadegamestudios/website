@@ -6,9 +6,9 @@
 			"trackStatus": {
 				"DEV": true,
 				"PRE_PROD": true,
-				"PROD": true
+				"PROD": false
 			},
-			"adApproved": true
+			"adApproved": false
 		}
 	}
 }
