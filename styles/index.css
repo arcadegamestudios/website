@@ -354,4 +354,11 @@ hr.heading-underline {
 		font-size:13px;
 	}
 }
-	
+
+h1 {
+	font-size: 28px;
+}
+
+h2.product {
+	color: dodgerblue;
+}
