@@ -8,7 +8,7 @@
 				"INTERNAL_TESTING": true,
 				"CLOSED_TESTING": true,
 				"OPEN_TESTING": false,
-				"PROD": false
+				"PROD": true
 			},
 			"adApproved": false
 		}
