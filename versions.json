@@ -10,7 +10,8 @@
 				"OPEN_TESTING": false,
 				"PROD": true
 			},
-			"adApproved": false
+			"adApproved": false,
+			"adLimited": true
 		}
 	}
 }
