@@ -6,8 +6,55 @@ Copyright 2025-present, Susmita Guha Nag. All rights reserved.
     <head>
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <meta name="description" content="Arcade Game Studios develops casual mobile games for brain training and fun, including the popular NumTrix Math Number Puzzle."/>
         <title>Arcade Game Studios — Mobile Games</title>
         <link rel="stylesheet" href="styles/index.css" />
+
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "Organization",
+              "name": "Arcade Game Studios",
+              "url": "https://arcadegamestudios.github.io/website",
+              "logo": "https://arcadegamestudios.github.io/website/images/arcade-gs-logo-small.png",
+              "sameAs": [
+                "https://play.google.com/store/apps/dev?id=7341530816690448754"
+                
+              ],
+              "contactPoint": {
+                "@type": "ContactPoint",
+                "contactType": "customer service",
+                "email": "queries.arcadegamestudios@gmail.com"
+              }
+            }
+        </script>
+
+        <script type="application/ld+json">
+            {
+              "@context": "https://schema.org",
+              "@type": "SoftwareApplication",
+              "name": "NumTrix - Math Number Puzzle",
+              "operatingSystem": "Android",
+              "applicationCategory": "GameApplication",
+              "image": "images/numtrix-logo-small.png",
+              "description": "Train your brain with this fun and challenging number puzzle. Tap, add, match numbers and much more, in a race against time.",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "USD",
+                "url": "https://play.google.com/store/apps/details?id=com.arcadegamestudios.numtrix"
+              },
+              "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "5",
+                "ratingCount": "1"
+              },
+              "author": {
+                "@type": "Organization",
+                "name": "Arcade Game Studios"
+              }
+            }
+        </script>
     </head>
     <body>
         <!-- HEADER -->
@@ -18,15 +65,16 @@ Copyright 2025-present, Susmita Guha Nag. All rights reserved.
                     <span class="logo-text">Arcade Game Studios</span>
                 </a>
                 <nav class="main-nav">
-                    <a href="#games">Games</a>
-                    <a href="#about">About</a>
-                    <a href="#contacts">Contact Us</a>
+                    <ul>
+                        <li><a href="#games">Games</a></li>
+                        <li><a href="#about">About</a></li>
+                        <li><a href="#contacts">Contact Us</a></li>
+                    </ul>
                 </nav>
             </div>
         </header>
 
         <main>
-            <!-- HERO -->
             <section class="hero">
                 <div class="container">
                     <h1 style="font-size:48px; font-weight:100;">We are a mobile game developer studio</h1>
@@ -44,12 +92,21 @@ Copyright 2025-present, Susmita Guha Nag. All rights reserved.
 
                         <article class="app-card">
                             <div class="app-art" style="background-color:#FEFBF0;">
-                                <img src="images/numtrix-logo-small.png" style="width:200px;"/>
+                                <a href="numtrix.html">
+                                    <img alt="NumTrix Math Number Puzzle game logo" src="images/numtrix-logo-small.png" style="width:200px;"/>
+                                </a>
                             </div>
                             <div class="app-info">
-                                <h3 style="margin-bottom:12px;">NumTrix &mdash; Math Number Puzzle</h3>
+                                <h3 style="margin-bottom:12px;">
+                                    <a href="numtrix.html" style="color:#222; text-decoration:none;">
+                                    NumTrix &mdash; Math Number Puzzle
+                                    </a>
+                                </h3>
+                                
                                 <p class="app-desc">
-                                    Train your brain with this fun and challenging number puzzle. Tap, add, match numbers and much more, in a race against time.
+                                    Train your brain with this fun and challenging number puzzle game. 
+                                    Tap, add, and match numbers to solve complex logic puzzles in a race against time. 
+                                    The perfect casual brain training experience.
                                 </p>
                                 <div class="app-meta">
                                     <span class="badge">Puzzle</span>
@@ -61,7 +118,7 @@ Copyright 2025-present, Susmita Guha Nag. All rights reserved.
                                     <!--
                                     <a class="btn store store-apple" href="#">App Store</a>
                                     -->
-                                    <a class="btn store store-play" target="_blank" href="https://play.google.com/store/apps/details?id=com.arcadegamestudios.numtrix">Google Play</a>
+                                    <a class="btn store store-play" target="_blank" rel="noopener noreferrer" href="https://play.google.com/store/apps/details?id=com.arcadegamestudios.numtrix">Google Play</a>
                                 </div>
                             </div>
                         </article>
