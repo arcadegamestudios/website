@@ -11,7 +11,8 @@
 				"PROD": true
 			},
 			"adApproved": true,
-			"adLimited": true
+			"adLimited": true,
+			"adHourlyLimit": 6
 		}
 	}
 }
