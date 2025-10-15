@@ -12,7 +12,7 @@
 			},
 			"adApproved": true,
 			"adLimited": true,
-			"adHourlyLimit": 6
+			"adHourlyLimit": 4
 		}
 	}
 }
