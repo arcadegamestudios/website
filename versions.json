@@ -13,6 +13,17 @@
 			"adApproved": true,
 			"adLimited": true,
 			"adHourlyLimit": 4
+		},
+		"PocketCrossword": {
+			"trackStatus": {
+				"DEV": true,
+				"INTERNAL_TESTING": false,
+				"CLOSED_TESTING": false,
+				"OPEN_TESTING": false,
+				"PROD": false
+			},
+			"adApproved": false,
+			"adHourlyLimit": 4
 		}
 	}
 }
