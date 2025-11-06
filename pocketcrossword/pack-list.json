@@ -16,5 +16,23 @@
 		"title": "Pack #3",
 		"mini": true,
 		"size": 10
+	},
+	{
+		"id": "crossword_pack_1",
+		"title": "Pack #1",
+		"mini": false,
+		"size": 10
+	},
+	{
+		"id": "crossword_pack_2",
+		"title": "Pack #2",
+		"mini": false,
+		"size": 10
+	},
+	{
+		"id": "crossword_pack_3",
+		"title": "Pack #3",
+		"mini": false,
+		"size": 10
 	}
 ]
