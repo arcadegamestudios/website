@@ -1,12 +1,12 @@
 [
 	{
-		"id": "pro_version",
+		"code": "pro_version",
 		"type": "pro-version",
 		"sku": "PocketCrossword.pro_version",
 		"name": "Pro Version"		
 	},
 	{
-		"id": "hints_5",
+		"code": "hints_5",
 		"type": "hints",			
 		"sku": "PocketCrossword.hints_5",
 		"name": "Hints x 5",
@@ -14,7 +14,7 @@
 		"starPrice": 1000
 	},
 	{
-		"id": "hints_10",
+		"code": "hints_10",
 		"type": "hints",			
 		"sku": "PocketCrossword.hints_5",
 		"name": "Hints x 10",
