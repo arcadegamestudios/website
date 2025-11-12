@@ -11,7 +11,7 @@
 		"sku": "PocketCrossword.hints_5",
 		"name": "Hints x 5",
 		"size": 5,
-		"starPrice": 1000
+		"starPrice": 50
 	},
 	{
 		"code": "hints_10",
@@ -19,6 +19,22 @@
 		"sku": "PocketCrossword.hints_10",
 		"name": "Hints x 10",
 		"size": 10,
-		"starPrice": 2000
+		"starPrice": 90
+	},
+	{
+		"code": "extratime_5",
+		"type": "extra-time",			
+		"sku": "PocketCrossword.extratime_5",
+		"name": "Extra-time x 5",
+		"size": 5,
+		"starPrice": 75
+	},
+	{
+		"code": "extratime_10",
+		"type": "extra-time",			
+		"sku": "PocketCrossword.extratime_10",
+		"name": "Extra-time x 10",
+		"size": 10,
+		"starPrice": 130
 	}
 ]
