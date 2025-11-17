@@ -2,37 +2,37 @@
 	{
 		"id": "mini_pack_1",
 		"title": "Pack #1",
-		"mini": true,
+		"type": "mini-pack",
 		"size": 10
 	},
 	{
 		"id": "mini_pack_2",
 		"title": "Pack #2",
-		"mini": true,
-		"size": 15
+		"type": "mini-pack",
+		"size": 50
 	},
 	{
 		"id": "mini_pack_3",
 		"title": "Pack #3",
-		"mini": true,
-		"size": 10
+		"type": "mini-pack",
+		"size": 20
 	},
 	{
 		"id": "crossword_pack_1",
-		"title": "Pack #1",
-		"mini": false,
-		"size": 10
+		"title": "Pack #4",
+		"type": "crossword-pack",
+		"size": 20
 	},
 	{
 		"id": "crossword_pack_2",
-		"title": "Pack #2",
-		"mini": false,
+		"title": "Pack #5",
+		"type": "crossword-pack",
 		"size": 10
 	},
 	{
 		"id": "crossword_pack_3",
-		"title": "Pack #3",
-		"mini": false,
+		"title": "Pack #6",
+		"type": "crossword-pack",
 		"size": 10
 	}
 ]
