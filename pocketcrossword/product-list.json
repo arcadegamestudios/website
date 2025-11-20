@@ -1,40 +1,40 @@
 [
-	{
-		"code": "pro_version",
-		"type": "pro-version",
-		"sku": "pocketcrossword.pro_version",
-		"name": "Pro Version"		
-	},
-	{
-		"code": "hints_5",
-		"type": "hints",			
-		"sku": "pocketcrossword.hints_5",
-		"name": "Hints x 5",
-		"size": 5,
-		"starPrice": 50
-	},
-	{
-		"code": "hints_10",
-		"type": "hints",			
-		"sku": "pocketcrossword.hints_10",
-		"name": "Hints x 10",
-		"size": 10,
-		"starPrice": 90
-	},
-	{
-		"code": "extratime_5",
-		"type": "extra-time",			
-		"sku": "pocketcrossword.extratime_5",
-		"name": "Extra-time x 5",
-		"size": 5,
-		"starPrice": 75
-	},
-	{
-		"code": "extratime_10",
-		"type": "extra-time",			
-		"sku": "pocketcrossword.extratime_10",
-		"name": "Extra-time x 10",
-		"size": 10,
-		"starPrice": 130
-	}
+    {
+        "code": "pro_version",
+        "type": "pro_version",
+        "sku": "pocketcrossword.pro_version",
+        "name": "Pro Version"
+    },
+    {
+        "code": "hints_5",
+        "type": "hints",
+        "sku": "pocketcrossword.hints_5",
+        "name": "Hints x 5",
+        "size": 5,
+        "starPrice": 50
+    },
+    {
+        "code": "hints_10",
+        "type": "hints",
+        "sku": "pocketcrossword.hints_10",
+        "name": "Hints x 10",
+        "size": 10,
+        "starPrice": 90
+    },
+    {
+        "code": "extratime_5",
+        "type": "extratime",
+        "sku": "pocketcrossword.extratime_5",
+        "name": "Extra-time x 5",
+        "size": 5,
+        "starPrice": 75
+    },
+    {
+        "code": "extratime_10",
+        "type": "extratime",
+        "sku": "pocketcrossword.extratime_10",
+        "name": "Extra-time x 10",
+        "size": 10,
+        "starPrice": 130
+    }
 ]
