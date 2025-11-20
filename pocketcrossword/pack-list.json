@@ -2,121 +2,121 @@
     {
         "id": "mini_pack_1",
         "title": "Pack #1",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 10
     },
     {
         "id": "mini_pack_2",
         "title": "Pack #2",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 10
     },
     {
         "id": "mini_pack_3",
         "title": "Pack #3",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 10
     },
     {
         "id": "mini_pack_4",
         "title": "Pack #4",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 10
     },
     {
         "id": "mini_pack_5",
         "title": "Pack #5",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 10
     },
     {
         "id": "mini_pack_6",
         "title": "Pack #6",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 10
     },
     {
         "id": "mini_pack_7",
         "title": "Pack #7",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 20
     },
     {
         "id": "mini_pack_8",
         "title": "Pack #8",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 20
     },
     {
         "id": "mini_pack_9",
         "title": "Pack #9",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 20
     },
     {
         "id": "mini_pack_10",
         "title": "Pack #10",
-        "type": "mini-pack",
+        "type": "mini_pack",
         "size": 50
     },
     {
         "id": "crossword_pack_11",
         "title": "Pack #11",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 10
     },
     {
         "id": "crossword_pack_12",
         "title": "Pack #12",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 10
     },
     {
         "id": "crossword_pack_13",
         "title": "Pack #13",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 10
     },
     {
         "id": "crossword_pack_14",
         "title": "Pack #14",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 10
     },
     {
         "id": "crossword_pack_15",
         "title": "Pack #15",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 10
     },
     {
         "id": "crossword_pack_16",
         "title": "Pack #16",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 10
     },
     {
         "id": "crossword_pack_17",
         "title": "Pack #17",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 20
     },
     {
         "id": "crossword_pack_18",
         "title": "Pack #18",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 20
     },
     {
         "id": "crossword_pack_19",
         "title": "Pack #19",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 20
     },
     {
         "id": "crossword_pack_20",
         "title": "Pack #20",
-        "type": "crossword-pack",
+        "type": "crossword_pack",
         "size": 50
     }
 ]
