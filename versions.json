@@ -18,7 +18,7 @@
 			"trackStatus": { 
 				"DEV": true,
 				"INTERNAL_TESTING": true,
-				"CLOSED_TESTING": false,
+				"CLOSED_TESTING": true,
 				"OPEN_TESTING": false,
 				"PROD": false
 			},
