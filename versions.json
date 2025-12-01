@@ -28,6 +28,10 @@
 				"rewarded": 1,
 				"interstitial": 1
 			},
+			"initialAdLoadCount": {
+				"rewarded": 0,
+				"interstitial": 1
+			},
 			"paymentSupport": {
 				"android": "https://support.google.com/googleplay/answer/1267137"
 			}
