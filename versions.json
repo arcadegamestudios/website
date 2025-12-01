@@ -28,7 +28,7 @@
 				"rewarded": 1,
 				"interstitial": 1
 			},
-			"initialAdLoadCount": {
+			"initialAdLoadCounts": {
 				"rewarded": 0,
 				"interstitial": 1
 			},
