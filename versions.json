@@ -23,7 +23,10 @@
 				"PROD": false
 			},
 			"adApproved": false,
-			"adHourlyLimit": 4,
+			"adHourlyLimit": {
+				"rewarded": 4,
+				"interstitial": 8
+			},
 			"adQueueSizes": {
 				"rewarded": 1,
 				"interstitial": 1
