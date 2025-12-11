@@ -42,15 +42,15 @@
 				"showLimits": true,
 				"unscramble": {
 					"isLimited": true,
-					"dailyLimit": 10
+					"dailyLimit": 20
 				},
 				"wordSearch": {
 					"isLimited": true,
-					"dailyLimit": 8
+					"dailyLimit": 20
 				},
 				"guessIt": {
 					"isLimited": true,
-					"dailyLimit": 3
+					"dailyLimit": 20
 				}
 			}
 		}
