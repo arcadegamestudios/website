@@ -37,6 +37,21 @@
 			},
 			"paymentSupport": {
 				"android": "https://support.google.com/googleplay/answer/1267137"
+			},
+			"gamePlayLimits": {
+				"showLimits": true,
+				"unscramble": {
+					"isLimited": true,
+					"dailyLimit": 10
+				},
+				"wordSearch": {
+					"isLimited": true,
+					"dailyLimit": 8
+				},
+				"guessIt": {
+					"isLimited": true,
+					"dailyLimit": 3
+				}
 			}
 		}
 	}
