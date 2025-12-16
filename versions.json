@@ -42,7 +42,7 @@
 				"showLimits": true,
 				"unscramble": {
 					"isLimited": true,
-					"dailyLimit": 5
+					"dailyLimit": 20
 				},
 				"wordSearch": {
 					"isLimited": true,
