@@ -19,8 +19,8 @@
 				"DEV": true,
 				"INTERNAL_TESTING": true,
 				"CLOSED_TESTING": true,
-				"OPEN_TESTING": false,
-				"PROD": false
+				"OPEN_TESTING": true,
+				"PROD": true
 			},
 			"adApproved": false,
 			"adHourlyLimit": {
