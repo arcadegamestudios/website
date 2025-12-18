@@ -18,8 +18,8 @@
 			"trackStatus": { 
 				"DEV": true,
 				"INTERNAL_TESTING": true,
-				"CLOSED_TESTING": true,
-				"OPEN_TESTING": true,
+				"CLOSED_TESTING": false,
+				"OPEN_TESTING": false,
 				"PROD": true
 			},
 			"adApproved": false,
