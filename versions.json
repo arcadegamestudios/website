@@ -51,6 +51,10 @@
 				"guessIt": {
 					"isLimited": true,
 					"dailyLimit": 20
+				},
+				"wordly": {
+					"isLimited": false,
+					"dailyLimit": 20
 				}
 			}
 		}
