@@ -55,6 +55,10 @@
 				"wordly": {
 					"isLimited": false,
 					"dailyLimit": 20
+				},
+				"wubik": {
+					"isLimited": false,
+					"dailyLimit": 20
 				}
 			}
 		}
