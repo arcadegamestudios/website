@@ -25,7 +25,7 @@
 			"adApproved": true,
 			"adHourlyLimit": {
 				"rewarded": 4,
-				"interstitial": 8
+				"interstitial": 60
 			},
 			"adQueueSizes": {
 				"rewarded": 1,
@@ -33,7 +33,7 @@
 			},
 			"initialAdLoadCounts": {
 				"rewarded": 0,
-				"interstitial": 1
+				"interstitial": 0
 			},
 			"paymentSupport": {
 				"android": "https://support.google.com/googleplay/answer/1267137"
