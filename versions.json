@@ -53,11 +53,11 @@
 					"dailyLimit": 20
 				},
 				"wordly": {
-					"isLimited": false,
+					"isLimited": true,
 					"dailyLimit": 20
 				},
 				"wubik": {
-					"isLimited": false,
+					"isLimited": true,
 					"dailyLimit": 20
 				}
 			}
