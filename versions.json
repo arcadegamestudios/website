@@ -39,7 +39,7 @@
 				"android": "https://support.google.com/googleplay/answer/1267137"
 			},
 			"gamePlayLimits": {
-				"showLimits": true,
+				"showLimits": false,
 				"unscramble": {
 					"isLimited": true,
 					"dailyLimit": 20
