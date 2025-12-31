@@ -59,6 +59,10 @@
 				"wubik": {
 					"isLimited": true,
 					"dailyLimit": 20
+				},
+				"wordLadder": {
+					"isLimited": false,
+					"dailyLimit": 20
 				}
 			}
 		}
