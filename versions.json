@@ -63,6 +63,10 @@
 				"wordLadder": {
 					"isLimited": false,
 					"dailyLimit": 20
+				},
+				"vocab": {
+					"isLimited": false,
+					"dailyLimit": 20
 				}
 			}
 		}
