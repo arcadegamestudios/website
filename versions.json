@@ -41,23 +41,23 @@
 			"gamePlayLimits": {
 				"showLimits": false,
 				"unscramble": {
-					"isLimited": true,
+					"isLimited": false,
 					"dailyLimit": 20
 				},
 				"wordSearch": {
-					"isLimited": true,
+					"isLimited": false,
 					"dailyLimit": 20
 				},
 				"guessIt": {
-					"isLimited": true,
+					"isLimited": false,
 					"dailyLimit": 20
 				},
 				"lexly": {
-					"isLimited": true,
+					"isLimited": false,
 					"dailyLimit": 20
 				},
 				"wubik": {
-					"isLimited": true,
+					"isLimited": false,
 					"dailyLimit": 20
 				},
 				"wordLadder": {
