@@ -52,6 +52,24 @@
 					"interstitial": 0
 				}
 			},
+			"leaderboardSettings": {
+				"isActive": true,
+				"serverURL": "",
+				"maxFriends": 10,
+				"showGlobal": true,
+				"apiVersion": "v1"
+			},
+			"miscellaneous": {
+				"serverDateURLs": [
+					{
+						"url": "https://time.now/developer/api/timezone/Europe/London",
+						"jsonKey": "datetime"
+					},
+					{
+						"url": "https://arcadegamestudios.github.io/website/versions.json"
+					}
+				]
+			},
 			"paymentSupport": {
 				"android": "https://support.google.com/googleplay/answer/1267137"
 			},
