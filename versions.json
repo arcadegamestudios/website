@@ -57,7 +57,8 @@
 				"serverURL": "",
 				"maxFriends": 10,
 				"showGlobal": true,
-				"apiVersion": "v1"
+				"apiVersion": "v1",
+				"activeLeaderboards": [ "daily" ]
 			},
 			"miscellaneous": {
 				"serverDateURLs": [
