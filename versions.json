@@ -54,7 +54,7 @@
 			},
 			"leaderboardSettings": {
 				"isActive": true,
-				"serverURL": "",
+				"serverURL": "https://leaderboard-backend.arcadegamestudios-2025.workers.dev",
 				"maxFriends": 10,
 				"showGlobal": true,
 				"apiVersion": "v1",
