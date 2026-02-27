@@ -58,7 +58,8 @@
 				"maxFriends": 10,
 				"showGlobal": true,
 				"apiVersion": "v1",
-				"activeLeaderboards": [ "daily" ]
+				"showAll": true,
+				"activeLeaderboards": [ "daily", "casual", "lexly", "wubik", "wordSearch", "vocab", "wordLadder" ]
 			},
 			"miscellaneous": {
 				"serverDateURLs": [
