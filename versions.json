@@ -60,6 +60,7 @@
 				"apiVersion": "v1",
 				"globalBoardSize": 100,
 				"showAll": true,
+				"syncPostGame": true,
 				"activeLeaderboards": [ "daily", "lexly", "wubik", "wordSearch", "vocab", "wordLadder" ]
 			},
 			"miscellaneous": {
