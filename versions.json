@@ -22,7 +22,7 @@
 				"OPEN_TESTING": false,
 				"PROD": true
 			},
-			"adApproved": true,
+			"adApproved": false,
 			"adHourlyLimit": {
 				"rewarded": 4,
 				"interstitial": 60
