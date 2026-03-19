@@ -108,6 +108,57 @@
 					"dailyLimit": 20
 				}
 			}
+		},
+		"CardBattles": {
+			"trackStatus": { 
+				"DEV": true,
+				"INTERNAL_TESTING": false,
+				"CLOSED_TESTING": false,
+				"OPEN_TESTING": false,
+				"PROD": false
+			},
+			"adSettings": {
+				"adApproved": true,
+				"cooldown": 30,
+				"showOnFailure": true,
+				"adHourlyLimit": {
+					"rewarded": 4,
+					"interstitial": 60
+				},
+				"adQueueSizes": {
+					"rewarded": 1,
+					"interstitial": 1
+				},
+				"initialAdLoadCounts": {
+					"rewarded": 0,
+					"interstitial": 0
+				}
+			},
+			"leaderboardSettings": {
+				"isActive": false,
+				"serverURL": "https://leaderboard-backend.arcadegamestudios-2025.workers.dev",
+				"maxFriends": 10,
+				"showGlobal": true,
+				"apiVersion": "v1",
+				"globalBoardSize": 100,
+				"showAll": true,
+				"syncPostGame": true,
+				"activeLeaderboards": []
+			},
+			"miscellaneous": {
+				"serverDateURLs": [
+					{
+						"url": "https://time.now/developer/api/timezone/Europe/London",
+						"jsonKey": "datetime"
+					},
+					{
+						"url": "https://arcadegamestudios.github.io/website/versions.json"
+					}
+				]
+			},
+			"paymentSupport": {
+				"android": "https://support.google.com/googleplay/answer/1267137"
+			}
 		}
 	}
 }
