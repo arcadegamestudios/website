@@ -14,7 +14,7 @@
 			"adLimited": true,
 			"adHourlyLimit": 4,
 			"showAdOnLevelFailed": true,
-			"minLevelForInterstitials": 2
+			"minLevelForInterstitials": 1
 		},
 		"PocketCrossword": { 
 			"trackStatus": { 
