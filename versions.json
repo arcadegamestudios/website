@@ -12,7 +12,8 @@
 			},
 			"adApproved": true,
 			"adLimited": true,
-			"adHourlyLimit": 4
+			"adHourlyLimit": 4,
+			"showAdOnLevelFailed": true
 		},
 		"PocketCrossword": { 
 			"trackStatus": { 
