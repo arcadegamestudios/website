@@ -24,6 +24,7 @@
 				"OPEN_TESTING": false,
 				"PROD": true
 			},
+			"inAppPurchasesActivated": false,
 			"adApproved": true,
 			"adHourlyLimit": {
 				"rewarded": 4,
